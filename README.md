@@ -1,5 +1,5 @@
 # 💫 Hi, I'm Malak
-👩🏻‍💻 Software Engineer sharing about my journey and learning in tech<br/>👩🏻‍🎓 Computer Engineering frist year student at Helwan Universty<br/>🎨 Making vidoes about Studing and help people in learning<br/>🌷 #learninginpublic <br/>💭 Currently learning about data science!<br/>
+👩🏻‍💻 Software Engineer sharing about my journey and learning in tech<br/>👩🏻‍🎓 Computer Engineering first year student at Helwan University<br/>🎨 Making vidoes about studing and helping others learn<br/>🌷 #learninginpublic <br/>💭 Currently learning about data science!<br/>
 
 
 ## 🌐 Socials:
